@@ -31,6 +31,7 @@
 		C59531F92BB0BDE7006A5AF7 /* Arrays13.swift in Sources */ = {isa = PBXBuildFile; fileRef = C59531F82BB0BDE7006A5AF7 /* Arrays13.swift */; };
 		C595321A2BB2096A006A5AF7 /* CoreData15.swift in Sources */ = {isa = PBXBuildFile; fileRef = C59532192BB2096A006A5AF7 /* CoreData15.swift */; };
 		C595321D2BB20AF9006A5AF7 /* FruitsContainer.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = C595321B2BB20AF9006A5AF7 /* FruitsContainer.xcdatamodeld */; };
+		C5B0FC572BBDF2FB0024530F /* Timer24.swift in Sources */ = {isa = PBXBuildFile; fileRef = C5B0FC562BBDF2FB0024530F /* Timer24.swift */; };
 		C5F17F602BB2311C00F75255 /* CoreDataRelationships16.swift in Sources */ = {isa = PBXBuildFile; fileRef = C5F17F5F2BB2311C00F75255 /* CoreDataRelationships16.swift */; };
 		C5F17F632BB232D900F75255 /* CoreDataContainer.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = C5F17F612BB232D900F75255 /* CoreDataContainer.xcdatamodeld */; };
 		C5F783EC2BB5ED69000966E9 /* BackgroundThread17.swift in Sources */ = {isa = PBXBuildFile; fileRef = C5F783EB2BB5ED69000966E9 /* BackgroundThread17.swift */; };
@@ -65,6 +66,7 @@
 		C59531F82BB0BDE7006A5AF7 /* Arrays13.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Arrays13.swift; sourceTree = "<group>"; };
 		C59532192BB2096A006A5AF7 /* CoreData15.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoreData15.swift; sourceTree = "<group>"; };
 		C595321C2BB20AF9006A5AF7 /* FruitsContainer.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = FruitsContainer.xcdatamodel; sourceTree = "<group>"; };
+		C5B0FC562BBDF2FB0024530F /* Timer24.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Timer24.swift; sourceTree = "<group>"; };
 		C5F17F5F2BB2311C00F75255 /* CoreDataRelationships16.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoreDataRelationships16.swift; sourceTree = "<group>"; };
 		C5F17F622BB232D900F75255 /* CoreDataContainer.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = CoreDataContainer.xcdatamodel; sourceTree = "<group>"; };
 		C5F783EB2BB5ED69000966E9 /* BackgroundThread17.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BackgroundThread17.swift; sourceTree = "<group>"; };
@@ -107,6 +109,7 @@
 				C59531DB2BAE4E56006A5AF7 /* MagnificationGesture2.swift */,
 				C59531E12BAF0D2B006A5AF7 /* DragGesture4part2.swift */,
 				C55401A12BBC97E500C9ED1A /* DownloadEscaping22.swift */,
+				C5B0FC562BBDF2FB0024530F /* Timer24.swift */,
 				C59531EB2BAF8A90006A5AF7 /* SoundEffects9.swift */,
 				C59531F22BB046DA006A5AF7 /* Haptics10.swift */,
 				C5F783EF2BB608DF000966E9 /* Typealias19.swift */,
@@ -229,6 +232,7 @@
 				C5F17F602BB2311C00F75255 /* CoreDataRelationships16.swift in Sources */,
 				C59531EC2BAF8A90006A5AF7 /* SoundEffects9.swift in Sources */,
 				C5F783F22BB60B2B000966E9 /* Escaping20.swift in Sources */,
+				C5B0FC572BBDF2FB0024530F /* Timer24.swift in Sources */,
 				C595321D2BB20AF9006A5AF7 /* FruitsContainer.xcdatamodeld in Sources */,
 				C5F783EE2BB5FEFF000966E9 /* WeakSelf18.swift in Sources */,
 				C59531D02BADCF91006A5AF7 /* ContentView.swift in Sources */,
