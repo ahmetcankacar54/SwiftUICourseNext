@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		C55401A02BBC843900C9ED1A /* Codable21.swift in Sources */ = {isa = PBXBuildFile; fileRef = C554019F2BBC843900C9ED1A /* Codable21.swift */; };
 		C55401A22BBC97E500C9ED1A /* DownloadEscaping22.swift in Sources */ = {isa = PBXBuildFile; fileRef = C55401A12BBC97E500C9ED1A /* DownloadEscaping22.swift */; };
+		C55401A42BBCBDF800C9ED1A /* DownloadWithCombine23.swift in Sources */ = {isa = PBXBuildFile; fileRef = C55401A32BBCBDF800C9ED1A /* DownloadWithCombine23.swift */; };
 		C59531CE2BADCF90006A5AF7 /* IntemediateCourseApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = C59531CD2BADCF90006A5AF7 /* IntemediateCourseApp.swift */; };
 		C59531D02BADCF91006A5AF7 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C59531CF2BADCF90006A5AF7 /* ContentView.swift */; };
 		C59531D22BADCF92006A5AF7 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C59531D12BADCF92006A5AF7 /* Assets.xcassets */; };
@@ -41,6 +42,7 @@
 /* Begin PBXFileReference section */
 		C554019F2BBC843900C9ED1A /* Codable21.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Codable21.swift; sourceTree = "<group>"; };
 		C55401A12BBC97E500C9ED1A /* DownloadEscaping22.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DownloadEscaping22.swift; sourceTree = "<group>"; };
+		C55401A32BBCBDF800C9ED1A /* DownloadWithCombine23.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DownloadWithCombine23.swift; sourceTree = "<group>"; };
 		C59531CA2BADCF90006A5AF7 /* IntemediateCourse.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = IntemediateCourse.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		C59531CD2BADCF90006A5AF7 /* IntemediateCourseApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IntemediateCourseApp.swift; sourceTree = "<group>"; };
 		C59531CF2BADCF90006A5AF7 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -113,6 +115,7 @@
 				C554019F2BBC843900C9ED1A /* Codable21.swift */,
 				C59531E32BAF62A5006A5AF7 /* ScrollViewReader5.swift */,
 				C5F783F12BB60B2B000966E9 /* Escaping20.swift */,
+				C55401A32BBCBDF800C9ED1A /* DownloadWithCombine23.swift */,
 				C5F783ED2BB5FEFF000966E9 /* WeakSelf18.swift */,
 				C5F17F5F2BB2311C00F75255 /* CoreDataRelationships16.swift */,
 				C5F17F612BB232D900F75255 /* CoreDataContainer.xcdatamodeld */,
@@ -230,6 +233,7 @@
 				C5F783EE2BB5FEFF000966E9 /* WeakSelf18.swift in Sources */,
 				C59531D02BADCF91006A5AF7 /* ContentView.swift in Sources */,
 				C59531E22BAF0D2B006A5AF7 /* DragGesture4part2.swift in Sources */,
+				C55401A42BBCBDF800C9ED1A /* DownloadWithCombine23.swift in Sources */,
 				C595321A2BB2096A006A5AF7 /* CoreData15.swift in Sources */,
 				C59531E02BAEFE59006A5AF7 /* DragGesture4.swift in Sources */,
 				C59531EA2BAF8513006A5AF7 /* Mask8.swift in Sources */,

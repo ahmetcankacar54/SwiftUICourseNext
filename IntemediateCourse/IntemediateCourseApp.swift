@@ -11,7 +11,7 @@ import SwiftUI
 struct IntemediateCourseApp: App {
     var body: some Scene {
         WindowGroup {
-            DownloadEscaping22()
+            DownloadWithCombine23()
         }
     }
 }
