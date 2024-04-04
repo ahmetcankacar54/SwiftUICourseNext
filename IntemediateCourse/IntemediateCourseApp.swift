@@ -11,7 +11,7 @@ import SwiftUI
 struct IntemediateCourseApp: App {
     var body: some Scene {
         WindowGroup {
-            Timer24()
+            Subscriber25()
         }
     }
 }

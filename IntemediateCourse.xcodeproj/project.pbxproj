@@ -32,6 +32,7 @@
 		C595321A2BB2096A006A5AF7 /* CoreData15.swift in Sources */ = {isa = PBXBuildFile; fileRef = C59532192BB2096A006A5AF7 /* CoreData15.swift */; };
 		C595321D2BB20AF9006A5AF7 /* FruitsContainer.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = C595321B2BB20AF9006A5AF7 /* FruitsContainer.xcdatamodeld */; };
 		C5B0FC572BBDF2FB0024530F /* Timer24.swift in Sources */ = {isa = PBXBuildFile; fileRef = C5B0FC562BBDF2FB0024530F /* Timer24.swift */; };
+		C5B0FC592BBE11710024530F /* Subscriber25.swift in Sources */ = {isa = PBXBuildFile; fileRef = C5B0FC582BBE11710024530F /* Subscriber25.swift */; };
 		C5F17F602BB2311C00F75255 /* CoreDataRelationships16.swift in Sources */ = {isa = PBXBuildFile; fileRef = C5F17F5F2BB2311C00F75255 /* CoreDataRelationships16.swift */; };
 		C5F17F632BB232D900F75255 /* CoreDataContainer.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = C5F17F612BB232D900F75255 /* CoreDataContainer.xcdatamodeld */; };
 		C5F783EC2BB5ED69000966E9 /* BackgroundThread17.swift in Sources */ = {isa = PBXBuildFile; fileRef = C5F783EB2BB5ED69000966E9 /* BackgroundThread17.swift */; };
@@ -67,6 +68,7 @@
 		C59532192BB2096A006A5AF7 /* CoreData15.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoreData15.swift; sourceTree = "<group>"; };
 		C595321C2BB20AF9006A5AF7 /* FruitsContainer.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = FruitsContainer.xcdatamodel; sourceTree = "<group>"; };
 		C5B0FC562BBDF2FB0024530F /* Timer24.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Timer24.swift; sourceTree = "<group>"; };
+		C5B0FC582BBE11710024530F /* Subscriber25.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Subscriber25.swift; sourceTree = "<group>"; };
 		C5F17F5F2BB2311C00F75255 /* CoreDataRelationships16.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoreDataRelationships16.swift; sourceTree = "<group>"; };
 		C5F17F622BB232D900F75255 /* CoreDataContainer.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = CoreDataContainer.xcdatamodel; sourceTree = "<group>"; };
 		C5F783EB2BB5ED69000966E9 /* BackgroundThread17.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BackgroundThread17.swift; sourceTree = "<group>"; };
@@ -120,6 +122,7 @@
 				C5F783F12BB60B2B000966E9 /* Escaping20.swift */,
 				C55401A32BBCBDF800C9ED1A /* DownloadWithCombine23.swift */,
 				C5F783ED2BB5FEFF000966E9 /* WeakSelf18.swift */,
+				C5B0FC582BBE11710024530F /* Subscriber25.swift */,
 				C5F17F5F2BB2311C00F75255 /* CoreDataRelationships16.swift */,
 				C5F17F612BB232D900F75255 /* CoreDataContainer.xcdatamodeld */,
 				C59532192BB2096A006A5AF7 /* CoreData15.swift */,
@@ -240,6 +243,7 @@
 				C55401A42BBCBDF800C9ED1A /* DownloadWithCombine23.swift in Sources */,
 				C595321A2BB2096A006A5AF7 /* CoreData15.swift in Sources */,
 				C59531E02BAEFE59006A5AF7 /* DragGesture4.swift in Sources */,
+				C5B0FC592BBE11710024530F /* Subscriber25.swift in Sources */,
 				C59531EA2BAF8513006A5AF7 /* Mask8.swift in Sources */,
 				C59531F92BB0BDE7006A5AF7 /* Arrays13.swift in Sources */,
 				C59531E62BAF6AA5006A5AF7 /* GeometryReader5.swift in Sources */,
