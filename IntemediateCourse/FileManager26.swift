@@ -17,16 +17,7 @@ class LocalFileManager {
     }
     
     func createFolderNeeded() {
-        guard
-            let path = FileManager
-                .default
-                .urls(for: .cachesDirectory, in: .userDomainMask)
-                .first?
-                .appendingPathComponent( folderName, conformingTo: .folder)
-                .path()
-        else {
-            return
-        }
+        guard let path = getPath(folderName: folderName) else { return }
         
         if !FileManager.default.fileExists(atPath: path) {
             do {
@@ -40,16 +31,7 @@ class LocalFileManager {
     }
     
     func deleteFolder() {
-        guard
-            let path = FileManager
-                .default
-                .urls(for: .cachesDirectory, in: .userDomainMask)
-                .first?
-                .appendingPathComponent( folderName, conformingTo: .folder)
-                .path()
-        else {
-            return
-        }
+        var path: String = getPath(folderName: folderName) ?? ""
         
         do {
             try FileManager.default.removeItem(atPath: path)
@@ -104,6 +86,16 @@ class LocalFileManager {
             print("Error while deleting the File! \(error)")
         }
         
+    }
+    
+    func getPath(folderName: String) -> String? {
+        
+        return FileManager
+            .default
+            .urls(for: .cachesDirectory, in: .userDomainMask)
+            .first?
+            .appendingPathComponent( folderName, conformingTo: .folder)
+            .path()
     }
     
     
